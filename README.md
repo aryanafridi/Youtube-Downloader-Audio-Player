@@ -2,9 +2,8 @@
 The program will take YouTube video link as input and downloads or play audio of the video depending upon your choice.
 
 ## Video:
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=R_E1bD8G3S0
-" target="_blank"><img src="http://img.youtube.com/vi/R_E1bD8G3S0/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="1280" height="720" border="10" /></a>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/R_E1bD8G3S0/0.jpg)](http://www.youtube.com/watch?v=R_E1bD8G3S0)
+> Python YouTube Video Downloader & Audio Player
 
 ## Installation:
 1. Clone repository and install requirements.
