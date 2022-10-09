@@ -4,7 +4,7 @@ The program will take YouTube video link as input and downloads or play audio of
 ## Video:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=R_E1bD8G3S0
 " target="_blank"><img src="http://img.youtube.com/vi/R_E1bD8G3S0/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="1280" height="720" border="10" /></a>
 
 ## Installation:
 1. Clone repository and install requirements.
